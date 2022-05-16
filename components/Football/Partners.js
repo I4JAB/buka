@@ -7,7 +7,7 @@ const Partners = () => {
             <div className="container">
                 <div className="section-title">
                     <h2>Brand Partners</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                    <p></p>
                 </div>
 
                 <div className="row justify-content-center">
