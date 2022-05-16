@@ -27,7 +27,7 @@ const Layout = ({ children }) => {
                     name="twitter:card" 
                     content="Merab Sharikadze Official Website"
                 ></meta>
-                <link rel="canonical" href="https://plaon-react.envytheme.com/"></link>
+                <link rel="canonical" href="https://buka.ge"></link>
             </Head>
             
             {
